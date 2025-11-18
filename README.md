@@ -5,16 +5,6 @@ Network Design &amp; Simulation (Cisco Packet Tracer)
 
 This repository contains a complete network topology design built in **Cisco Packet Tracer**.
 
-## Contents
-
-- **`network_design_project.pkt`** – full Packet Tracer simulation file  
-- **`network_design_report.pdf`** – detailed written report including:
-  - network diagrams
-  - IP addressing and subnetting plan
-  - routing and switching configuration
-  - design rationale and assumptions
-  - basic security considerations
-
 ## Skills Demonstrated
 
 - VLAN design and trunk configuration  
