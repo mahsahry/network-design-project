@@ -20,4 +20,4 @@ This repository contains a complete network topology design built in **Cisco Pac
 2. Open the file:
 
    ```text
-   network_design_project.pkt
+   Network Project.pkt
