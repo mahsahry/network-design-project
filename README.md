@@ -18,3 +18,8 @@ This repository contains a complete network topology design built in **Cisco Pac
 
    ```text
    Network Project.pkt
+
+## Overview
+<p align="center">
+  <img src="network-design.png" alt="Network Topology" width="900">
+</p>
