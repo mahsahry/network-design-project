@@ -1,6 +1,3 @@
-# network-design-project
-Network Design &amp; Simulation (Cisco Packet Tracer)
-
 # Network Design & Simulation (Cisco Packet Tracer)
 
 This repository contains a complete network topology design built in **Cisco Packet Tracer**.
